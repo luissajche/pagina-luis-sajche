@@ -2,17 +2,22 @@
     background-color: white;
 }
 
+.navvB a:hover{
+    color: rgb(77, 77, 77);
+}
+
 .carousel-item{
     height: 40rem;
-} 
+}
+
 .carousel-item img{
     height: 40rem;
 }
 
 .ima{
-    height: 60%;
-
+    height: 80%;
 }
+
 
 .ca{
     padding: 0rem 1rem 0rem 1rem;
@@ -21,4 +26,12 @@
 
 body{
     background-color: rgb(1, 1, 37);
+}
+
+.bl{
+    color: black;
+}
+
+.cr{
+    height: 28rem;
 }
