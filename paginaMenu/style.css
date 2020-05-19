@@ -8,3 +8,17 @@
 .carousel-item img{
     height: 40rem;
 }
+
+.ima{
+    height: 60%;
+
+}
+
+.ca{
+    padding: 0rem 1rem 0rem 1rem;
+    margin-bottom: 1rem;
+}
+
+body{
+    background-color: rgb(1, 1, 37);
+}
