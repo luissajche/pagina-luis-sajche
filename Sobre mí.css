@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+}
+
+.navvB{
+    background-color: white;
+}
+
+header {
+    height: 20%;
+}
+
+main {
+    height: 80%;
+}
+
+#ojos {
+    text-align: left;
+}
+
+.espacio {
+    margin-top: 2rem;
+}
