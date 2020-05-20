@@ -1,7 +1,9 @@
 .navvB{
     background-color: white;
 }
-
+.navvB a{
+    font-size: 1.5rem;
+}
 .navvB a:hover{
     color: rgb(77, 77, 77);
 }
@@ -33,5 +35,6 @@ body{
 }
 
 .cr{
-    height: 28rem;
+    max-width: 28rem;
+    max-height: 28rem;
 }
