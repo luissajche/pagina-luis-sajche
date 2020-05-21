@@ -1,0 +1,31 @@
+body {
+    background-color:  rgb(1, 1, 37);
+}
+
+.navvB {
+    background-color:white;
+}
+
+.navvB a:hover {
+    color: rgb(77, 77, 77);
+}
+
+.colorFontNav {
+    color: black;
+}
+
+.container {
+    margin-top: 5rem;
+    
+}
+.datos {
+    width: 25rem;
+}
+
+.colorFont {
+    color: white;
+}
+
+.posicionMapa {
+    width: 100px;
+}
