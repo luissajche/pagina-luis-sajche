@@ -38,3 +38,10 @@ body{
     max-width: 28rem;
     max-height: 28rem;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
