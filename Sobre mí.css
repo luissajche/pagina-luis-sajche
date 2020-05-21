@@ -1,23 +1,42 @@
 body {
-    height: 100%;
+    background-color:  rgb(1, 1, 37);
 }
 
 .navvB{
     background-color: white;
 }
 
-header {
-    height: 20%;
+.navvB a{
+    color: black;
 }
 
-main {
-    height: 80%;
+.navvB a:hover {
+    color: rgb(77, 77, 77);
 }
 
-#ojos {
-    text-align: left;
+.colorFontNav {
+    color: black;
 }
 
-.espacio {
-    margin-top: 2rem;
+.colorTexto {
+    color: white;
 }
+
+.colorIcon {
+    color: white;
+}
+
+.carousel-item{
+    height: 40rem;
+} 
+.carousel-item img{
+    height: 40rem;
+}
+
+.centrar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 15rem 7rem 0rem 7rem; 
+}
+
