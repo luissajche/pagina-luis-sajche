@@ -11,11 +11,13 @@
 }
 
 .carousel-item{
-    height: 40rem;
+    height: 35%;
+    width: 100%;
 }
 
 .carousel-item img{
-    height: 40rem;
+    height: 35%;
+    width: 100%;
 }
 
 .ima{
