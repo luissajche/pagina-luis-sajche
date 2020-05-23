@@ -1,0 +1,42 @@
+body {
+    background-color:  rgb(1, 1, 37);
+}
+
+.navvB{
+    background-color: white;
+}
+
+.navvB a{
+    color: black;
+}
+
+.navvB a:hover {
+    color: rgb(77, 77, 77);
+}
+
+.colorFontNav {
+    color: black;
+}
+
+.colorTexto {
+    color: white;
+}
+
+.colorIcon {
+    color: white;
+}
+
+.carousel-item{
+    height: 40rem;
+} 
+.carousel-item img{
+    height: 40rem;
+}
+
+.centrar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 15rem 7rem 0rem 7rem; 
+}
+
